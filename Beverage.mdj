@@ -296,6 +296,9 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
+											"left": 45,
+											"top": 324,
+											"width": 109.841796875,
 											"height": 13
 										},
 										{
@@ -449,6 +452,7 @@
 								}
 							],
 							"font": "Arial;13;0",
+							"showShadow": false,
 							"containerChangeable": true,
 							"left": 40,
 							"top": 296,
